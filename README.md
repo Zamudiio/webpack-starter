@@ -14,3 +14,7 @@ Y para construir el build, recuerden:
 npm run build
 
 ```
+# Credits
+```
+eso es todo
+```
